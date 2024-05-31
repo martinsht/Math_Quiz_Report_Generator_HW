@@ -1,0 +1,8 @@
+Question 1: What is the result of: 13 + 8 = 21 true
+Question 2: What is the result of: 6 + 20 = 26 true
+Question 3: What is the result of: 7 * 10 = 70 true
+Question 4: What is the result of: 8 + 14 = 22 true
+Question 5: What is the result of: 7 * 20 = 140 true
+Question 6: What is the result of: 17 * 4 = 20 false
+Question 7: What is the result of: 17 + 20 = 4 false
+Question 8: What is the result of: 13 * 4 = 3 false
